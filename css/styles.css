@@ -3253,24 +3253,24 @@ input[type=button].btn-block {
   padding: 0.25rem 1.5rem;
   clear: both;
   font-weight: 400;
-  color: #212529;
+  color: #ac2529;
   text-align: inherit;
   white-space: nowrap;
   background-color: transparent;
   border: 0;
 }
 .dropdown-item:hover, .dropdown-item:focus {
-  color: #16181b;
+  color: #ac2529;
   text-decoration: none;
   background-color: #f8f9fa;
 }
 .dropdown-item.active, .dropdown-item:active {
   color: #fff;
   text-decoration: none;
-  background-color: #606060;
+  background-color: #ac2529;
 }
 .dropdown-item.disabled, .dropdown-item:disabled {
-  color: #6c757d;
+  color: #ac2529;
   pointer-events: none;
   background-color: transparent;
 }
@@ -3284,7 +3284,7 @@ input[type=button].btn-block {
   padding: 0.5rem 1.5rem;
   margin-bottom: 0;
   font-size: 0.875rem;
-  color: #6c757d;
+  color: #ac2529;
   white-space: nowrap;
 }
 
