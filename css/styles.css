@@ -4707,8 +4707,8 @@ input[type=button].btn-block {
 .page-item.active .page-link {
   z-index: 3;
   color: #fff;
-  background-color: #606060;
-  border-color: #606060;
+  background-color: #ac2529;
+  border-color: #ac2529;
 }
 .page-item.disabled .page-link {
   color: #6c757d;
@@ -4784,7 +4784,7 @@ a.badge:hover, a.badge:focus {
 
 .badge-primary {
   color: #fff;
-  background-color: #606060;
+  background-color: #ac2529;
 }
 a.badge-primary:hover, a.badge-primary:focus {
   color: #fff;
@@ -5087,7 +5087,7 @@ a.badge-black:focus, a.badge-black.focus {
   color: #fff;
   text-align: center;
   white-space: nowrap;
-  background-color: #606060;
+  background-color: #ac2529;
   transition: width 0.6s ease;
 }
 @media (prefers-reduced-motion: reduce) {
